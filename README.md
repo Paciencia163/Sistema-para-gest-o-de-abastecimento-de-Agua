@@ -19,9 +19,9 @@ Este repositório contém o código-fonte para um sistema web de gestão de abas
 
 ### Instalação
 
-1. **Clone o repositório:** `git clone https://github.com/seu-usuario/sistema-abastecimento-agua.git`
+1. **Clone o repositório:** `git clone https://github.com/Paciencia163/Sistema-para-gest-o-de-abastecimento-de-Agua`
 2. **Crie um banco de dados:** Crie um banco de dados chamado "water" no seu servidor MySQL.
-3. **Importe o script SQL:** Importe o arquivo `schema.sql` para o banco de dados "water".
+3. **Importe o script SQL:** Importe o arquivo `water.sql` para o banco de dados "water".
 4. **Configure as credenciais do banco de dados:** Edite o arquivo `config.php` com as credenciais do seu banco de dados.
 5. **Acesse o sistema:** Acesse a página `index.php` no seu navegador web.
 
